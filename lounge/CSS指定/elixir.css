@@ -1,0 +1,57 @@
+/*h1示範*/
+
+h1 {
+    font-size: 50pt;
+}
+
+
+dom tree選擇器
+
+div p {
+    color: red;
+}
+
+/*div>p {
+    font-size: 20pt;
+}
+
+div+h3 {
+    font-size: 30pt;
+}
+
+div~h3 {
+    color: orange;
+}*/
+
+
+/*設定顏色的方法
+
+.green {
+    background-color: green;
+}
+
+.lightblue {
+    background-color: #9ADDF8;
+}
+
+.blue {
+    background-color: rgb(79%, 69%, 79%);
+}*/
+
+
+/*設定字型大小
+
+body {
+    font-size: 12pt;
+}
+
+h2 {
+    font-size: 3.0em;
+}*/
+
+
+/*字體
+
+p {
+    font-family: 'Lobster', cursive;
+}*/
