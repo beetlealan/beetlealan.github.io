@@ -1,0 +1,15 @@
+   div p {
+       color: red;
+   }
+   
+   div>p {
+       font-size: 20pt;
+   }
+   
+   div+h3 {
+       font-size: 30pt;
+   }
+   
+   div~h3 {
+       color: orange;
+   }
