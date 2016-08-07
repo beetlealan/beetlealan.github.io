@@ -1,15 +1,126 @@
 /*h1示範*/
 
-h1 {
-    font-size: 50pt;
+dom tree選擇器 div p {
+    color: red;
 }
 
+p {
+    background-color: white;
+    /*background-image: url(images/star_PNG1597.png);*/
+    background-size: 50px;
+    background-position: top-right;
+    background-repeat: no-repeat;
+    border: dashed #FFFFFF 1px;
+    position: static;
+}
 
-dom tree選擇器
+body {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: montserrat;
+}
+
+* {
+    border: solid white 4px;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    background-color: #0080FF;
+    margin: auto;
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30pt;
+    font-weight: bold;
+    color: gray;
+}
+
+p.green {
+    color: white;
+    padding: 50px;
+    margin: auto;
+    line-height: 40px;
+    letter-spacing: 3px;
+    border-style: dashed;
+    border-color: white;
+    border-radius: 40px;
+    background-color: green;
+}
+
+p.lightblue {
+    color: white;
+    padding: 50px;
+    margin: auto;
+    line-height: 40px;
+    letter-spacing: 3px;
+    border-style: dashed;
+    border-color: white;
+    border-radius: 40px;
+    background-color: green;
+    background-color: rgb(0%, 80%, 90%);
+}
+
+p.Blue {
+    color: white;
+    padding: 50px;
+    margin: auto;
+    line-height: 40px;
+    letter-spacing: 3px;
+    border-style: dashed;
+    border-color: white;
+    border-radius: 40px;
+    background-color: green;
+    background-color: #9800FF;
+}
+
+p.red {
+    color: white;
+    padding: 50px;
+    margin: auto;
+    line-height: 40px;
+    letter-spacing: 3px;
+    border-style: dashed;
+    border-color: white;
+    border-radius: 40px;
+    background-color: green;
+    background-color: red;
+}
+
+h3 {
+    text-align: center;
+    font-style: sans-serif;
+    font-size: 30pt;
+}
+
+p.good {
+    text-align: center;
+    font-size: 25pt;
+}
 
 div p {
     color: red;
 }
+
+div>p {
+    font-size: 20pt;
+}
+
+div+h3 {
+    font-size: 30pt;
+}
+
+div~h3 {
+    color: orange;
+}
+
 
 /*div>p {
     font-size: 20pt;
