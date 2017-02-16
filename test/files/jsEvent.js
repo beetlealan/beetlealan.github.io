@@ -1,0 +1,1 @@
+var cubcsatargetElement = document.getElementById('cubcsaScriptElement');if(cubcsatargetElement)cubcsatargetElement.responseReceived = true;
