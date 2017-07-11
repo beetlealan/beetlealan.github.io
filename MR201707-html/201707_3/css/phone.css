@@ -1,0 +1,180 @@
+#header,#footer,.mobile_upload,.TabbedPanelsTabGroup,.title_creditcard2{ display:none;}
+.upload_title{ display:block;}
+.TabbedPanelsContentGroup {
+	border-top:none;
+}
+.TabbedPanelsContent {
+	padding:0px;
+}
+
+.breadcrumbs{display:none;}
+.col_f,.center{
+  width:100%;
+  padding:0px 10px;
+}
+
+.b10{ margin-bottom:10px;}
+
+.section_content{
+	padding:20px 10px;
+	}
+	
+.fluid .grid1, .fluid .grid2, .fluid .grid3, .fluid .grid4, .fluid .grid5,.fluid .grid6 ,.fluid .grid7, .fluid .grid8, .fluid .grid9,.fluid .grid10, .fluid .grid11, .fluid .grid12{ width: 98%; *width: 98%; margin-left:0; display:block;}
+
+.w_160{ width:120px;}
+.btn_colorImportant{padding: 0 10px;}
+.mr_35{
+    margin-right:10px;
+}
+.ml50_no{ padding-left:0px;}
+
+/*mobile only*/
+#main_header{display:block; }
+#main_header{
+	margin:0px auto;
+	padding:0px;
+	max-width:100%;
+	background:#e7e7e5;
+	}
+.header_ci{
+	background:url(../img/header_ci.png) no-repeat left top;
+	height:80px;
+	display:block;}
+#footer_ci .footerBtn img {
+    float: left;
+}
+#footer_ci{display:block;}
+#footer_ci{
+	width:100%;
+	}
+#footer_top{ text-align:center; margin-top:20px; margin-bottom:8px; display:block;}
+
+
+
+.list_step{
+box-sizing:border-box;
+-moz-box-sizing:border-box;
+-webkit-box-sizing:border-box;
+margin-bottom:10px;
+background:url(../img/step_bg_bg.png) repeat-x center 0px;
+}
+.list_step li{float:left;margin-left:0px;color:#008852;font-size:13px;font-weight:bold;line-height:15px; 
+background:url(../img/step_bg.png) no-repeat center 0px; height:50px; display:block; min-width:21px;padding-top:30px; margin-right:5px;margin-left:5px;}
+.list_step li .text_list_step{display:none;}
+.list_step li .arrow_step_tail{float:left;display:inline-block;background-image:none;}
+.list_step li .arrow_step_head{ display:none;}
+.list_step li:first-child{margin-left:0px;}
+.list_step li:last-child{margin-right:0px;}
+.list_step li.on:first-child{margin-left:0px;background:url(../img/step_left.png) no-repeat center 0px;}
+.list_step li.on:last-child{margin-right:0px;background:url(../img/step_right.png) no-repeat center 0px;}
+.list_step li.on{background:url(../img/step_bg_on.png) no-repeat center 0px;}
+.list_step li.on .text_list_step{background-color:#f9fbf6; display:block; color:#00a94f; background-image:none;}
+.list_step li.on .arrow_step_tail{background-image:none;width:0px;}
+.list_step li.on .arrow_step_head{background-image:none;width:0px;}
+
+.gray_bg{ background:#e2e2e2;}
+.index_bg{ background:url(../img/bg_640.jpg) no-repeat center center;display:block;height:350px;background-size:cover;
+}
+
+
+/*lightbox*/
+.lightbox_xl {
+  width: 840px;
+}
+
+.lightbox_l {
+  width:290px;
+}
+.content_lightbox {
+    margin: 0 auto;
+    padding:10px;
+}
+.article_scroller 
+ .scroller {
+    z-index: 1;
+    width: 100%;
+    padding: 10px;
+    word-wrap: break-word;
+}
+.title_lightbox {
+    color: #fff;
+    font-size:16px;
+    text-align: center;
+    line-height: 60px;
+}
+.pc_upload,.mobile_upload{ width:auto;}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), not all, not all{
+.fancybox-close{
+    background-image:url(../img/fancybox-close.png);
+    background-size:16px 16px;
+}
+}
+
+.label_title{
+    color: #313131;
+    font-weight: bold;
+    line-height: 28px;
+}
+.card_front{ background:url(../img/card_front_s.png) no-repeat center center;
+             background-size:280px 178px;
+			 width:280px; height:178px; display:block; position:relative; margin:0 auto; margin-bottom:20px;}
+.card_back{ background:url(../img/card_back_s.png) no-repeat center center;
+             background-size:280px 178px;
+			 width:280px; height:178px; display:block;position:relative;margin:0 auto;}
+
+.card_input{ width:60px; height:30px; line-height:30px;}
+.card_input02{ height:30px; line-height:30px;}
+
+.card_label01{ position:absolute; left:12px; top:103px;}
+.card_label02{ position:absolute; left:103px; top:135px;}
+.card_label03{ position:absolute; left:155px; top:70px;}
+.card_label04{ position:absolute; left:20px; top:75px;}
+
+
+.id_card{ background:url(../img/id_card_s.png) no-repeat center center;
+             background-size:280px 177px;
+			 width:280px; height:177px; display:block; position:relative; margin:0 auto;}
+.id_name{position:absolute; left:50px; top:60px; font-weight:bold; font-size:15px}
+.id_date{position:absolute; left:50px; top:92px;font-size:15px}
+.id_f{position:absolute; left:230px; top:113px; font-weight:bold;font-size:15px}
+.id_number{position:absolute; left:190px; top:113px;font-size:12px}
+.id_label01{position:absolute; left:50px; top:118px;}
+.id_label02{position:absolute; left:50px; top:140px;}
+.id_label03{position:absolute; left:135px; top:140px;}
+.id_picture{position:absolute; left:180px; top:20px; width:30px;}
+.red_area{position:absolute; left:45px; top:118px; width:180px; height:55px;border:4px solid #F00;}
+.id_picture img{width:80px;}
+
+html body .form_style .id_label01 input.uniform-input, html body .form_style .id_label01 select.uniform-multiselect, html body .form_style .id_label01 textarea.uniform{
+	padding:0px;}
+html body .form_style .id_label01 input.uniform-input, html body .form_style .id_label01 select.uniform-multiselect, html body .form_style .id_label01 textarea.uniform{
+	height:20px; font-size:12px; line-height:20px;}
+html body .form_style .id_label02 div.selector select,
+html body .form_style .id_label03 div.selector select{height:20px; top:0px;}
+html body .form_style .id_label02 div.selector span,
+html body .form_style .id_label03 div.selector span{height: 20px;
+    line-height: 20px;}
+html body .form_style .id_label02 div.selector span,
+html body .form_style .id_label03 div.selector span{padding:0px 10px 0px 0px;}
+html body .form_style .id_label02 div.selector,
+html body .form_style .id_label03 div.selector{height: 20px;
+    line-height: 20px;}
+
+.success_img{ max-width:100%;}
+
+
+/*1225新增*/
+.card_img img{width:100%;}
+.id_post {position: absolute;left: 16px;top: 134px; font-size:13px;}
+
+
+.btn_OrangeBorder{
+    padding: 0 20px;
+    color: #ff6c00;
+    border: 2px solid #ff9445;
+    background: #fff;}
+
+.list_margin{padding:20px 0 0 10px;}
+.list_box01{height:290px;}
+.list_box02{height:110px;}
