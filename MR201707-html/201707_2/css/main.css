@@ -340,13 +340,14 @@
 }
 #main .banner .img h1 {
 	position: absolute;
-	width: 80%;
+	width: 60%;
 	height: 60px;
-	top: 25%;
+	top: 15%;
 	right: 0;
 	margin-right: 20px;
 	margin-top: 0;
-	text-align: right;
+	text-align: left;
+	left: 40%;
 }
 #main .banner .img .p {
 	position: absolute;
@@ -376,7 +377,7 @@
 	margin: 30px 0
 }
 #main .in p.text_left_m10 {
-	text-align: left;
+	text-align: justify;
 	color: #434343;
 	margin: 10px 0
 }
@@ -513,7 +514,7 @@
 	margin: 0.5em 0
 }
 #main .in p.text_left_m10 {
-	text-align: left;
+	text-align: justify;
 	color: #434343;
 	margin: 0.5em 0
 }

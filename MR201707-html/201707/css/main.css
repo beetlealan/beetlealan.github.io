@@ -365,12 +365,12 @@
 	color: #484848
 }
 #main .in p.text_left {
-	text-align: left;
+	text-align: justify;
 	color: #434343;
 	margin: 30px 0
 }
 #main .in p.text_left_m10 {
-	text-align: left;
+	text-align: justify;
 	color: #434343;
 	margin: 10px 0
 }
@@ -483,12 +483,12 @@
 	width: 100%
 }
 #main .in p.text_left {
-	text-align: left;
+	text-align: justify;
 	color: #434343;
 	margin: 0.5em 0
 }
 #main .in p.text_left_m10 {
-	text-align: left;
+	text-align: justify;
 	color: #434343;
 	margin: 0.5em 0
 }
