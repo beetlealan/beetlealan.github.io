@@ -128,12 +128,12 @@
 	position: absolute;
 	width: auto;
 	height: 60px;
-	top: 60px;
+	top: 70px;
 	/*right: 0px;*/
 	margin-right: 0;
 	margin-top: 0;
 	text-align: left;
-	left: 380px;
+	left: 480px;
 }
 
 #main .banner .img .p {
@@ -173,7 +173,7 @@
 	margin: 30px 0
 }
 #main .in p.text_left_m10 {
-	text-align: left;
+	text-align: justify;
 	color: #434343;
 	margin: 10px 0
 }
@@ -217,7 +217,8 @@
 	line-height: 30px
 }
 #main .in .box_in #box1 .text_in, #main .in .box_in #box2 .text_in, #main .in .box_in #box3 .text_in, #main .in .box_in #box4 .text_in {
-	padding: 10px 0px
+	padding: 10px 0px;
+	text-align: justify;
 }
 #main .in .box_in #box1 .text_in .img, #main .in .box_in #box2 .text_in .img, #main .in .box_in #box3 .text_in .img, #main .in .box_in #box4 .text_in .img {
 	text-align: center;
@@ -318,10 +319,10 @@
 }
 #main .banner .img h1 {
 	position: absolute;
-	width: 45%;
+	width: 55%;
 	height: 60px;
-	top: 20%;
-	left: 50%;
+	top: 35%;
+	left: 55%;
 	margin-right: 0;
 	margin-top: 0;
 	text-align: left;

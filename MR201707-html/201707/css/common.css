@@ -158,32 +158,32 @@ input, select {
 
 /* line 49, ../../sass/v2/common/_font-awesome.scss */
 .fa-caret-down:before {
-  content: "";
+  content: "";
 }
 
 /* line 50, ../../sass/v2/common/_font-awesome.scss */
 .fa-caret-up:before {
-  content: "";
+  content: "";
 }
 
 /* line 51, ../../sass/v2/common/_font-awesome.scss */
 .fa-caret-left:before {
-  content: "";
+  content: "";
 }
 
 /* line 52, ../../sass/v2/common/_font-awesome.scss */
 .fa-caret-right:before {
-  content: "";
+  content: "";
 }
 
 /* line 53, ../../sass/v2/common/_font-awesome.scss */
 .fa-plus-circle:before {
-  content: "";
+  content: "";
 }
 
 /* line 54, ../../sass/v2/common/_font-awesome.scss */
 .fa-minus-circle:before {
-  content: "";
+  content: "";
 }
 
 /* line 56, ../../sass/v2/common/_font-awesome.scss */
@@ -3940,4 +3940,6 @@ html.no-boxshadow .side_menu li .btn_tab_side_menu {
 /* line 291, ../../sass/v2/common/_setting.scss */
 .ie8 body .form_style .w_240, .ie9 body .form_style .w_240, .ie10 body .form_style .w_240 {
   width: 228px;
+}.no-js body #main .in .box_in .other_box .text_in .text_left_m10.s_16 {
+	text-align: justify;
 }

@@ -170,7 +170,7 @@
 	margin: 30px 0
 }
 #main .in p.text_left_m10 {
-	text-align: left;
+	text-align: justify;
 	color: #434343;
 	margin: 10px 0
 }
@@ -214,7 +214,8 @@
 	line-height: 30px
 }
 #main .in .box_in #box1 .text_in, #main .in .box_in #box2 .text_in, #main .in .box_in #box3 .text_in, #main .in .box_in #box4 .text_in {
-	padding: 10px 0px
+	padding: 10px 0px;
+	text-align: justify;
 }
 #main .in .box_in #box1 .text_in .img, #main .in .box_in #box2 .text_in .img, #main .in .box_in #box3 .text_in .img, #main .in .box_in #box4 .text_in .img {
 	text-align: center;
