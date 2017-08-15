@@ -575,7 +575,7 @@
 	padding: 0 2%
 }
 #main .in .box_in #box1 .text_in .img, #main .in .box_in #box2 .text_in .img, #main .in .box_in #box3 .text_in .img, #main .in .box_in #box4 .text_in .img {
-	text-align: center;
+	text-align: justify;
 	position: relative;
 	width: 100%;
 	height: auto;
@@ -583,7 +583,7 @@
 	margin: 10px auto 0
 }
 #main .in .box_in #box1 .text_in .img p, #main .in .box_in #box2 .text_in .img p, #main .in .box_in #box3 .text_in .img p, #main .in .box_in #box4 .text_in .img p {
-	text-align: left;
+	text-align: justify;
 	line-height: 24px;
 }
 #main .in .box_in .other_box {
@@ -597,7 +597,7 @@
 #main .in .box_in .other_box .box_title {
 	width: 100%;
 	height: 30px;
-	text-align: center;
+	text-align: justify;
 	line-height: 30px
 }
 }
