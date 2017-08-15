@@ -358,7 +358,8 @@
 #main .in p.text_left_m10 {
 	text-align: justify;
 	color: #434343;
-	margin: 10px 0
+	margin: 10px 0;
+	text-justify: inter-ideograph;
 }
 #main .in p.text_left_m4 {
 	text-align: left;
