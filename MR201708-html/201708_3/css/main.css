@@ -218,8 +218,8 @@
 }
 #main .in .box_in #box1 .text_in, #main .in .box_in #box2 .text_in, #main .in .box_in #box3 .text_in, #main .in .box_in #box4 .text_in {
 	padding: 10px 0px;
-	text-align: center;
-	text-justify: auto;
+	text-align: justify;
+	text-justify: inter-ideograph;
 }
 #main .in .box_in #box1 .text_in .img, #main .in .box_in #box2 .text_in .img, #main .in .box_in #box3 .text_in .img, #main .in .box_in #box4 .text_in .img {
 	text-align: center;
