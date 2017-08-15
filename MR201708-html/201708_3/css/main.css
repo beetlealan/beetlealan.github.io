@@ -531,7 +531,7 @@
 	padding: 0 2%
 }
 #main .in .box_in #box1 .text_in .img, #main .in .box_in #box2 .text_in .img, #main .in .box_in #box3 .text_in .img, #main .in .box_in #box4 .text_in .img {
-	text-align: center;
+	text-align: justify;
 	position: relative;
 	width: 100%;
 	height: auto;
@@ -539,7 +539,8 @@
 	margin: 10px auto 0
 }
 #main .in .box_in #box1 .text_in .img p, #main .in .box_in #box2 .text_in .img p, #main .in .box_in #box3 .text_in .img p, #main .in .box_in #box4 .text_in .img p {
-	text-align: justify
+	text-align: justify;
+	text-justify: auto
 }
 #main .in .box_in .other_box {
 	position: relative;
