@@ -165,7 +165,7 @@
 	line-height: 40px
 }
 #main .in p.text_left {
-	text-align: left;
+	text-align: justify;
 	color: #434343;
 	margin: 30px 0
 }
@@ -216,6 +216,7 @@
 #main .in .box_in #box1 .text_in, #main .in .box_in #box2 .text_in, #main .in .box_in #box3 .text_in, #main .in .box_in #box4 .text_in {
 	padding: 10px 0px;
 	text-align: justify;
+	text-justify: auto;
 }
 #main .in .box_in #box1 .text_in .img, #main .in .box_in #box2 .text_in .img, #main .in .box_in #box3 .text_in .img, #main .in .box_in #box4 .text_in .img {
 	text-align: center;
@@ -379,7 +380,8 @@
 #main .in p.text_left_m10 {
 	text-align: justify;
 	color: #434343;
-	margin: 10px 0
+	margin: 10px 0;
+	text-justify: auto;
 }
 #main .in p.text_left_m4 {
 	text-align: left;
