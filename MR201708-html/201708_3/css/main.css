@@ -539,7 +539,7 @@
 	margin: 10px auto 0
 }
 #main .in .box_in #box1 .text_in .img p, #main .in .box_in #box2 .text_in .img p, #main .in .box_in #box3 .text_in .img p, #main .in .box_in #box4 .text_in .img p {
-	text-align: left
+	text-align: justify
 }
 #main .in .box_in .other_box {
 	position: relative;
