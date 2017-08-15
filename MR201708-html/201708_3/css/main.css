@@ -355,6 +355,7 @@
 }
 #main .in p.text_left_m10 {
 	text-align: justify;
+	text-justify: auto;
 	color: #434343;
 	margin: 10px 0
 }
