@@ -128,12 +128,13 @@
 	position: absolute;
 	width: 45%;
 	height: 60px;
-	top: 140px;
+	top: 75px;
 	/*right: 0px;*/
 	margin-right: 0px;
 	margin-top: 0px;
 	text-align: left;
-	left: 460px;
+	left: 80px;
+	color: #993300;
 }
 
 #main .banner .img .p {
@@ -321,7 +322,7 @@
 	position: absolute;
 	width: 55%;
 	height: 50px;
-	top: 7%;
+	top: 20%;
 	left: 7%;
 	margin-right: 0;
 	margin-top: 0;
