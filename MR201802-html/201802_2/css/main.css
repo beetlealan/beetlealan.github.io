@@ -127,11 +127,11 @@
 	position: absolute;
 	width: auto;
 	height: auto;
-	top: 45px;
+	top: 60px;
 	margin-right: 0;
 	margin-top: 0;
 	text-align: left;
-	left: 35px;
+	left: 80px;
 	color: #4a4848;
 }
 #main .banner .img .p {
@@ -223,7 +223,7 @@
 #main .in .box_in #box1 .text_in .img, #main .in .box_in #box2 .text_in .img, #main .in .box_in #box3 .text_in .img, #main .in .box_in #box4 .text_in .img {
 	text-align: center;
 	position: relative;
-	width: 480px;
+	width: 500px;
 	height: auto;
 	float: left;
 	float: none;
@@ -345,12 +345,12 @@
 	position: absolute;
 	width: auto;
 	height: auto;
-	top: 15%;
+	top: 20%;
 	right: 0px;
 	margin-right: 0px;
 	margin-top: 0px;
 	text-align: left;
-	left: 3%;
+	left: 5%;
 }
 #main .banner .img .p {
 	position: absolute;
