@@ -144,13 +144,13 @@
 #main .banner .img h1 {
 	position: absolute;
 	width: auto;
-	height: 60px;
-	top: 110px;
+	height: 40px;
+	top: 80px;
 	/*right: 0px;*/
 	margin-right: 0px;
 	margin-top: 0px;
 	text-align: left;
-	left: 20px;
+	left: 60px;
 	color: #FFFFFF;
 	text-shadow: 0px 0px 8px #999999;
 }
@@ -338,7 +338,7 @@
 	position: absolute;
 	width: auto;
 	height: auto;
-	top: 60%;
+	top: 65%;
 	left: 5%;
 	margin-right: 0px;
 	margin-top: 0px;
