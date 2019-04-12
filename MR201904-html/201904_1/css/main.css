@@ -145,15 +145,14 @@
 	position: absolute;
 	width: inherit;
 	height: 60px;
-	top: 155px;
+	top: 150px;
 	/*right: 0px;*/
 	margin-right: 0px;
 	margin-top: 0px;
 	text-align: left;
-	left: 70px;
+	left: 130px;
 	color: #FFFFFF;
-	text-shadow: 0px 0px 8px #666666;
-	font-size: 44px;
+	text-shadow: 0px 0px 8px #333333;
 }
 #main .banner .img .p {
 	position: absolute;
@@ -339,15 +338,13 @@
 	position: absolute;
 	width: auto;
 	height: auto;
-	top: 63%;
+	top: 55%;
 	left: 10%;
 	margin-right: 0px;
 	margin-top: 0px;
 	text-align: left;
 	color: #FFFFFF;
 	text-shadow: 0px 0px 8px #666666;
-	font-size: 5vw;
-	font-family: 微軟正黑體;
 }
 #main .banner .img .p {
 	position: absolute;
@@ -374,9 +371,7 @@
 #main .in p.text_left {
 	text-align: justify;
 	color: #434343;
-	margin: 30px 0;
-	font-size: 5vw;
-	font-family: 微軟正黑體;
+	margin: 30px 0
 }
 #main .in p.text_left_m10 {
 	text-align: justify;
