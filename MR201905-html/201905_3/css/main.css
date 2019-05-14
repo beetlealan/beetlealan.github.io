@@ -128,13 +128,13 @@
 	position: absolute;
 	width: auto;
 	height: 60px;
-	top: 50px;
+	top: 72px;
 	/*right: 0px;*/
 	margin-right: 0px;
 	margin-top: 0px;
 	text-align: center;
-	left: 75px;
-	color: #666666;
+	left: 79px;
+	color: #333333;
 	text-shadow: 0px 0px 8px #FFFFFF;
 }
 
@@ -324,7 +324,7 @@
 	width: auto;
 	height: auto;
 	top: 20%;
-	left: 8%;
+	left: 5%;
 	margin-right: 0;
 	margin-top: 0;
 	text-align: center;
