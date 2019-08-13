@@ -145,12 +145,12 @@
 	position: absolute;
 	width: inherit;
 	height: 60px;
-	top: 120px;
+	top: 105px;
 	/*right: 0px;*/
 	margin-right: 0px;
 	margin-top: 0px;
 	text-align: left;
-	left: 55px;
+	left: 45px;
 	color: #333333;
 	text-shadow: 0px 0px 8px #FFFFFF;
 }
@@ -338,8 +338,8 @@
 	position: absolute;
 	width: auto;
 	height: auto;
-	top: 55%;
-	left: 5%;
+	top: 38%;
+	left: 3%;
 	margin-right: 0px;
 	margin-top: 0px;
 	text-align: left;
