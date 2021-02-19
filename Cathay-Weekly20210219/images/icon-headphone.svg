@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#EAEAEA" d="M-95 0L575 0 575 5953 -95 5953z" transform="translate(-298 -5262)"/>
+        <g>
+            <path fill="#FFF" d="M0 852L480 852 480 5405 0 5405z" transform="translate(-298 -5262) translate(0 24) matrix(1 0 0 -1 0 6257)"/>
+            <g transform="translate(-298 -5262) translate(0 24) translate(247 5230)">
+                <rect width="217" height="49" x=".5" y=".5" stroke="#CECECE" rx="5"/>
+                <g stroke="#666" stroke-linecap="round" stroke-width="1.5" transform="translate(52 12)">
+                    <path d="M6 13v-2.27C6 4.803 10.701 0 16.5 0S27 4.804 27 10.73V13"/>
+                    <rect width="4" height="7" x="3" y="13" rx="2"/>
+                    <path d="M19.5 25c0 .828-.672 1.5-1.5 1.5h-2c-.828 0-1.5-.672-1.5-1.5s.672-1.5 1.5-1.5h2c.828 0 1.5.672 1.5 1.5z"/>
+                    <rect width="4" height="7" x="25" y="13" rx="2"/>
+                    <path d="M5 13H3.966C1.776 13 0 14.567 0 16.5h0C0 18.433 1.775 20 3.966 20H5M27 13h1.034C30.224 13 32 14.567 32 16.5h0c0 1.933-1.775 3.5-3.966 3.5H27M20 25h1.602c1.166 0 2.285-.526 3.11-1.463C25.537 22.599 26 21.327 26 20h0"/>
+                </g>
+            </g>
+            <path stroke="#E02020" stroke-width="4" d="M2 5212H478V5810H2z" transform="translate(-298 -5262) translate(0 24)"/>
+        </g>
+    </g>
+</svg>
