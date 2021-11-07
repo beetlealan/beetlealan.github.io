@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#EAEAEA" d="M0 0L670 0 670 5953 0 5953z" transform="translate(-144 -5262)"/>
+        <g>
+            <path fill="#FFF" d="M0 852L480 852 480 5405 0 5405z" transform="translate(-144 -5262) translate(95 24) matrix(1 0 0 -1 0 6257)"/>
+            <g transform="translate(-144 -5262) translate(95 24) translate(15 5230)">
+                <rect width="217" height="49" x=".5" y=".5" stroke="#CECECE" rx="5"/>
+                <g transform="translate(42 10)">
+                    <circle cx="8" cy="28" r="1" fill="#666" fill-rule="nonzero"/>
+                    <path stroke="#666" stroke-width="1.5" d="M17 23.908V1.581c.003-.417-.158-.818-.447-1.115C16.263.17 15.87.002 15.459 0H1.54C1.13.002.736.17.447.466c-.29.297-.45.698-.447 1.115v27.835c-.003.417.158.818.447 1.115.289.297.683.466 1.094.469H15.46c.411-.003.805-.172 1.094-.469.29-.297.45-.698.447-1.115v-5.508zM0 6.25L17 6.25M0 25.25L17 25.25"/>
+                    <path stroke="#666" stroke-linecap="round" stroke-width="1.5" d="M7 3.188L10 3.188"/>
+                </g>
+            </g>
+            <path stroke="#E02020" stroke-width="4" d="M2 5212H478V5810H2z" transform="translate(-144 -5262) translate(95 24)"/>
+        </g>
+    </g>
+</svg>
